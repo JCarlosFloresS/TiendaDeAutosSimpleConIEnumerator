@@ -1,0 +1,13 @@
+D:\Escritorio\C#\C# Intermedio\IEnumarable\bin\Debug\netcoreapp3.1\IEnumarable.exe
+D:\Escritorio\C#\C# Intermedio\IEnumarable\bin\Debug\netcoreapp3.1\IEnumarable.deps.json
+D:\Escritorio\C#\C# Intermedio\IEnumarable\bin\Debug\netcoreapp3.1\IEnumarable.runtimeconfig.json
+D:\Escritorio\C#\C# Intermedio\IEnumarable\bin\Debug\netcoreapp3.1\IEnumarable.runtimeconfig.dev.json
+D:\Escritorio\C#\C# Intermedio\IEnumarable\bin\Debug\netcoreapp3.1\IEnumarable.dll
+D:\Escritorio\C#\C# Intermedio\IEnumarable\bin\Debug\netcoreapp3.1\IEnumarable.pdb
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.csprojAssemblyReference.cache
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.AssemblyInfoInputs.cache
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.AssemblyInfo.cs
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.dll
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.pdb
+D:\Escritorio\C#\C# Intermedio\IEnumarable\obj\Debug\netcoreapp3.1\IEnumarable.genruntimeconfig.cache
